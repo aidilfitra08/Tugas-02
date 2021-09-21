@@ -1,4 +1,4 @@
 # Tugas-02
  
- Screenshot program
+Screenshot program
 ![shiftcipher](https://imgur.com/a/T8egFhM)
